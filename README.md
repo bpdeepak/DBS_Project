@@ -43,12 +43,12 @@ The **Online Restaurant Ordering System with Dietary Recommendations** is a web-
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/online-restaurant-ordering.git
+   git clone https://github.com/your-username/DBS_Project.git
    ```
 
 2. Navigate to the project directory:
    ```bash
-   cd online-restaurant-ordering
+   cd DBS_Project
    ```
 
 3. Set up the virtual environment:
